@@ -1,0 +1,15 @@
+def near_tracker(wallet):
+
+    result = {
+        "wallet": wallet,
+        "activity": [
+            "Received 5 NEAR",
+            "Sent 2 NEAR"
+        ],
+        "status": "Normal activity"
+    }
+
+    return result
+
+
+print(near_tracker("example.near"))

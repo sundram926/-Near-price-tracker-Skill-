@@ -1,0 +1,11 @@
+<html>
+<body>
+
+<h1>NEAR Tracker</h1>
+
+<p>Wallet: example.near</p>
+
+<p>Status: Normal activity</p>
+
+</body>
+</html>

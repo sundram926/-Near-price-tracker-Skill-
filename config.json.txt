@@ -1,0 +1,11 @@
+{
+  "name": "near-tracker",
+  "version": "1.0.0",
+  "author": "your-github-name",
+  "keywords": [
+    "near",
+    "wallet",
+    "tracker",
+    "ironclaw"
+  ]
+}

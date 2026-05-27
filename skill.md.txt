@@ -1,0 +1,21 @@
+# NEAR Tracker
+
+Version: 1.0
+
+Description:
+Track NEAR wallet activity and generate a readable summary.
+
+Triggers:
+- track near wallet
+- check wallet
+- recent transactions
+- wallet summary
+
+Input:
+NEAR wallet address
+
+Output:
+- Wallet overview
+- Recent activity
+- Transaction summary
+- Status
